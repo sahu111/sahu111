@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sahu111
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Software Development Projects
+- 👋 Hi, I’m @sahu111 Pankaj Kumar Sahu
+- 👀 I’m interested in Data, DataScience
+- 🌱 I’m currently learning ReactJS,MachineLearning,DataScience
+- 💞️ I’m looking to collaborate on MachineLearning, DataScience and Software Development Projects
 - 📫 How to reach me pks.iiit@gmail.com
 
 <!---
