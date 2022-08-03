@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pks.iiit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/18G792En_ZGU58MBF3KXZRtXKq67DlISe](https://drive.google.com/drive/folders/18G792En_ZGU58MBF3KXZRtXKq67DlISe)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18PTYb8Jy_-wyRc0q9vv7BBh5c1NmF0S9/view?usp=sharing](https://drive.google.com/file/d/18PTYb8Jy_-wyRc0q9vv7BBh5c1NmF0S9/view?usp=sharing)
 
 - ⚡ Fun fact **I think I can code.**
 
