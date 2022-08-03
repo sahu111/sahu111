@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Sahu.</h1>
 <h3 align="center">A passionate Data Scientist from India.</h3>
-<div class="total-center"><img align="center" alt="Coding" width="400" src="https://www.segalbenz.com/sites/default/files/SB-blog-5-research-stats_112420-550x300.gif"></div>
+<img align="middle" alt="Coding" width="400" src="https://www.segalbenz.com/sites/default/files/SB-blog-5-research-stats_112420-550x300.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahu111&label=Profile%20views&color=0e75b6&style=flat" alt="sahu111" /> </p>
 
@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahu111&show_icons=true&locale=en&layout=compact" alt="sahu111" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahu111&" alt="sahu111" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sahu111&" alt="sahu111" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sahu111&show_icons=true&locale=en" alt="sahu111" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sahu111&show_icons=true&locale=en" alt="sahu111" /></p>
