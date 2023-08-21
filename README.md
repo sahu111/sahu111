@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18PTYb8Jy_-wyRc0q9vv7BBh5c1NmF0S9/view?usp=sharing](https://drive.google.com/file/d/18PTYb8Jy_-wyRc0q9vv7BBh5c1NmF0S9/view?usp=sharing)
 
-- ⚡ Fun fact **I think I can code.**
+- ⚡ Fun fact **....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
